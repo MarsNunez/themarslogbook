@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-image-height {
+  height: calc(100vh - 100px);
+}
+
+.min-screen-height {
+  min-height: calc(100vh - 120px);
+}
